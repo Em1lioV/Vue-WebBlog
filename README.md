@@ -1,5 +1,7 @@
 # vue-blog-app
 
+### Learning Vue.js - The Composition API
+
 ## Project setup
 ```
 npm install
